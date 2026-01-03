@@ -1,4 +1,4 @@
-# sekit.py
+# sekit.p
 
 Clone the repository, change file permissions, and run the script using Python 3 on Kali Linux or any Linux distribution.
 
